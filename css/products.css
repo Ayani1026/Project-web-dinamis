@@ -1,0 +1,28 @@
+.header {
+    background: rgb(255,181,138);
+    background: linear-gradient(90deg, rgba(255,181,138,1) 0%, rgba(255,0,101,1) 100%);
+}
+
+.btn-info, .btn-info:hover, .btn-info:active, .btn-info:visited {
+    background-color: #FF4F63 !important;
+}
+
+.btn-success, .btn-success:hover, .btn-success:active, .btn-succes:visited {
+    background-color: #FF4F63 !important;
+    
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #FF4F63 !important;
+    
+}
+
+.header .row .cari {
+    border-radius: 10px;
+    margin-top: 5px;
+    border: 0px;
+    text-align: center;
+    width: fit-content;
+}
+
+

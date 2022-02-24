@@ -1,0 +1,23 @@
+/* body {
+    background-color: #F4EEEB;
+} */
+
+.header {
+    background: rgb(255,181,138);
+    background: linear-gradient(90deg, rgba(255,181,138,1) 0%, rgba(255,0,101,1) 100%);
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #CB6CE6 !important;
+    
+}
+
+.btn-secondary, .btn-secondary:hover, .btn-secondary:active, .btn-secondary:visited {
+    background-color: #CB6CE6 !important;
+    
+}
+
+.btn-info, .btn-info:hover, .btn-info:active, .btn-info:visited {
+    background-color: #FF4F63 !important;
+}
+
